@@ -4,7 +4,7 @@ Here is a list.
 1. Item 1
 2. Item 2
 3. Item 3
-4. Item 4
+4. This item is now becoming a large sequence of characters.  These characters may have meaning to some, perhaps those who speak the English language; however, in reality, they hold virtually no importance, as long as they are different from what they were before.  These characters will make it possible to detect a conflict.
 5. Item 5
 
 There are many more items that I could create, but I won't for now.
