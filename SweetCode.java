@@ -14,3 +14,4 @@ This is not a real java class, it's really just a fake one.
 Oooh, pretty colors.
 
 And now I want to add a bunch more lines that actually don't conflict with anyone.
+And one more such line.  Ooh, life without conflicts is good!
